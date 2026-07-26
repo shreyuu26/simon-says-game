@@ -5,7 +5,7 @@ An interactive web-based Siman says memory game built using HTML5, CSS3, and Van
 A fun, interactive, and fully responsive memory-testing game inspired by the classic electronic game "Simon". This project was built to master core algorithmic thinking, state tracking, and user event handling in JavaScript.
 
 ## 🚀 Live Demo
-👉 *https://shreyuu26.github.io/simon-says-game/*
+👉 **https://shreyuu26.github.io/simon-says-game/**
 
 ## ✨ Key Features
 - **Dynamic Game Logic:** Automatically generates random color sequences that grow progressively longer as the player wins each round.
